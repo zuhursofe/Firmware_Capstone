@@ -15,3 +15,8 @@ Release/
 .DS_Store
 Thumbs.db
 /.metadata/
+.jxbrowser.userdata/
+RemoteSystemsTempFiles/
+Debug/
+Release/
+.metadata/
